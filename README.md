@@ -1,2 +1,4 @@
 # Amazon_Scraper
-made with python
+A program that track Amazon item prices and send email when the product is on sales.
+
+made with Python
